@@ -1,0 +1,17 @@
+{
+  "name": "Twilio Creds",
+  "password": "wvxfoqCKsytuFODBveH9EKRcSjJS51Czegj5UxF+wep7MaSa+EyjGA==",
+  "sys_class_name": "sys_auth_profile_basic",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-10-04 21:45:34",
+  "sys_id": "bdf6b9a51b5c88106933fc88cc4bcb64",
+  "sys_mod_count": 1,
+  "sys_name": "Twilio Creds",
+  "sys_package": "268e9d5fdbb32300fcf417803996195e",
+  "sys_policy": null,
+  "sys_scope": "268e9d5fdbb32300fcf417803996195e",
+  "sys_update_name": "sys_auth_profile_basic_bdf6b9a51b5c88106933fc88cc4bcb64",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-10-04 21:53:31",
+  "username": "AC3b68f38afccae8435b8ee8a7c01f318c"
+}

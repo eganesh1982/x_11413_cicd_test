@@ -1,0 +1,19 @@
+{
+  "field_list": "asset_tag,model,model_category,model.display_name,assigned_to,company,install_status,substatus,cost,ci",
+  "filter": null,
+  "name": "ed_t_alm_asset",
+  "sys_class_name": "sys_export_definition",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-10-29 18:12:16",
+  "sys_id": "5816b1a91b3880106933fc88cc4bcb80",
+  "sys_mod_count": 1,
+  "sys_name": "ed_t_alm_asset",
+  "sys_package": "268e9d5fdbb32300fcf417803996195e",
+  "sys_policy": null,
+  "sys_scope": "268e9d5fdbb32300fcf417803996195e",
+  "sys_update_name": "sys_export_definition_5816b1a91b3880106933fc88cc4bcb80",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-10-29 18:12:17",
+  "table_name": "alm_asset",
+  "view": "9016b1a91b3880106933fc88cc4bcb82"
+}
